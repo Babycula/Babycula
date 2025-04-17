@@ -1,6 +1,6 @@
 # Hey there, I'm Disha Bhujbal!  
 
-**BTech CSE | Web Developer | AI Explorer | Magic Creator**
+**B.Tech CSE | Web Developer | AI Explorer | Magic Creator**
 
 Welcome to my world of code, creativity, and a touch of chaos. I’m passionate about building interactive web experiences, solving real-world problems with AI, and leaving a spark of magic in every line of code I write.
 
@@ -8,7 +8,6 @@ Welcome to my world of code, creativity, and a touch of chaos. I’m passionate 
 
 ### 🧠 Currently:
 - Crafting a real-time **IP Address Tracker Web App**
-- Researching **Lung Cancer Detection using Pre-trained CNNs**
 - Building my **3D Magical Portfolio Website**
 
 ---
